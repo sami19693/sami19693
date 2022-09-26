@@ -1,0 +1,249 @@
+============================================
+start time (UTC):	 09-20-2022 22:32:43.661
+version:		22.5.1 - 1
+iOS version:	 16.000000
+language:		 ar-KW
+country code:		KW
+device name:		 iPhone
+system version:	 16.0
+model:		 iPhone
+free space:	934810591232
+============================================
+09-20-2022 22:32:43.659: application:(UIApplication *)application didFinishLaunchingWithOptions
+09-20-2022 22:32:43.665: ..............................Check database model...................
+09-20-2022 22:32:43.665: /var/mobile/Containers/Data/Application/CD558045-3411-41FB-BFB8-9E0F4D4F3686/Documents/TranslatorModel.sqlite
+09-20-2022 22:32:43.707: Event: AppLaunched
+09-20-2022 22:32:43.707: Parameters: connection : wifi
+09-20-2022 22:32:43.716: 
+Inital View Loaded.
+09-20-2022 22:32:43.793: readTextFileFromExtensionAndRemove
+09-20-2022 22:32:43.864: needSpeechLanguageUpdate: Yes
+09-20-2022 22:32:43.864: 
+clearing etag for language url
+09-20-2022 22:32:43.865: etag for language url removed: (null)
+09-20-2022 22:32:43.875: 
+
+========= STARTING OFFLINE ENGINE FOR TEXT MODE  =========
+
+
+09-20-2022 22:32:43.875: 
+
+========= STARTING OFFLINE ENGINE FOR OCR MODE  =========
+
+
+09-20-2022 22:32:43.902: Event: HomePage
+09-20-2022 22:32:43.902: Parameters: connection : wifi
+09-20-2022 22:32:44.077: readTextFileFromExtensionAndRemove
+09-20-2022 22:32:44.078: Event: AppEnteredForeground
+09-20-2022 22:32:44.078: Parameters: connection : wifi
+09-20-2022 22:32:45.084: logWatchStatus
+09-20-2022 22:32:46.476: 
+Updating languages on device store.
+09-20-2022 22:32:46.674: 
+user response to language pack upgrade prompt:No
+09-20-2022 22:32:46.677: 
+no language pack upgrade is available
+09-20-2022 22:32:46.689: Languages
+
+09-20-2022 22:32:46.689: Found: Arabic, Levantine code: apc capabilities: V2T Voice Conv  speech code: ar-SY  
+09-20-2022 22:32:46.689: Found: Belarusian code: be capabilities:  speech code: (null)  
+09-20-2022 22:32:46.689: Found: Chinese (Literary) code: lzh capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: Inuinnaqtun code: ikt capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: Inuktitut (Latin) code: iu-Latn capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: Mongolian (Cyrillic) code: mn-Cyrl capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: Mongolian (Traditional) code: mn-Mong capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: Sindhi code: sd capabilities:  speech code: (null)  
+09-20-2022 22:32:46.689: Found: Sinhala code: si capabilities: Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: Tajik code: tg capabilities:  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الأذربيجانية code: az capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الأرمنية code: hy capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الأسامية code: as capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الأفريقانية code: af capabilities: T2T Voice  speech code: (null)  - Downloaded //OfflineLanguagePacks/af
+09-20-2022 22:32:46.689: Found: الألبانية code: sq capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الألمانية code: de capabilities: OCR V2T T2T Voice Conv  speech code: de-DE  - Downloaded //OfflineLanguagePacks/de
+09-20-2022 22:32:46.689: Found: الأمهرية code: am capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الأوتومي الكيريتارية code: otq capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الأوردية code: ur capabilities: T2T Voice  speech code: (null)  - Downloaded //OfflineLanguagePacks/ur
+09-20-2022 22:32:46.689: Found: الأورية code: or capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الأوزبكية code: uz capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الأوكرانية code: uk capabilities: V2T T2T Voice Conv  speech code: uk-UA  - Downloaded //OfflineLanguagePacks/uk
+09-20-2022 22:32:46.689: Found: الأويغورية code: ug capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الأيرلندية code: ga capabilities: V2T T2T Voice  speech code: ga-IE  
+09-20-2022 22:32:46.689: Found: الأيسلندية code: is capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الإسبانية code: es capabilities: OCR V2T T2T Voice Conv  speech code: es-ES  - Downloaded //OfflineLanguagePacks/es
+09-20-2022 22:32:46.689: Found: الإستونية code: et capabilities: V2T T2T Voice  speech code: et-EE  - Downloaded //OfflineLanguagePacks/et
+09-20-2022 22:32:46.689: Found: الإنجليزية code: en capabilities: OCR V2T T2T Voice Conv  speech code: en-US  
+09-20-2022 22:32:46.689: Found: الإندونيسية code: id capabilities: V2T T2T Voice Conv  speech code: id-ID  - Downloaded //OfflineLanguagePacks/id
+09-20-2022 22:32:46.689: Found: الإيطالية code: it capabilities: OCR V2T T2T Voice Conv  speech code: it-IT  - Downloaded //OfflineLanguagePacks/it
+09-20-2022 22:32:46.689: Found: الإينكتيتت code: iu capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الباسكية code: eu capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الباشكيرية code: ba capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: البرتغالية (البرازيل) code: pt-PT capabilities: V2T T2T Voice Conv  speech code: pt-PT  
+09-20-2022 22:32:46.689: Found: البرتغالية (البرازيل) code: pt capabilities: OCR V2T T2T Voice Conv  speech code: pt-BR  - Downloaded //OfflineLanguagePacks/pt
+09-20-2022 22:32:46.689: Found: البشتو code: ps capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: البلغارية code: bg capabilities: V2T T2T Voice Conv  speech code: bg-BG  - Downloaded //OfflineLanguagePacks/bg
+09-20-2022 22:32:46.689: Found: البنجابية code: pa capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: البنغالية code: bn capabilities: T2T Voice  speech code: (null)  - Downloaded //OfflineLanguagePacks/bn
+09-20-2022 22:32:46.689: Found: البورمية code: my capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: البوسنية code: bs capabilities: T2T  speech code: (null)  - Downloaded //OfflineLanguagePacks/bs
+09-20-2022 22:32:46.689: Found: البولندية code: pl capabilities: OCR V2T T2T Voice Conv  speech code: pl-PL  - Downloaded //OfflineLanguagePacks/pl
+09-20-2022 22:32:46.689: Found: التاميلية code: ta capabilities: V2T T2T Voice Conv  speech code: ta-IN  - Downloaded //OfflineLanguagePacks/ta
+09-20-2022 22:32:46.689: Found: التاهيتية code: ty capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: التايلاندية code: th capabilities: V2T T2T Voice Conv  speech code: th-TH  - Downloaded //OfflineLanguagePacks/th
+09-20-2022 22:32:46.689: Found: التبتية code: bo capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: التترية code: tt capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: التركمانية code: tk capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: التركية code: tr capabilities: OCR V2T T2T Voice Conv  speech code: tr-TR  - Downloaded //OfflineLanguagePacks/tr
+09-20-2022 22:32:46.689: Found: التشيكية code: cs capabilities: OCR V2T T2T Voice Conv  speech code: cs-CZ  - Downloaded //OfflineLanguagePacks/cs
+09-20-2022 22:32:46.689: Found: التغرينية code: ti capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: التونغية code: to capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: التيلوغوية code: te capabilities: V2T T2T Voice Conv  speech code: te-IN  
+09-20-2022 22:32:46.689: Found: الجاليكية code: gl capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الجورجية code: ka capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الخميرية code: km capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الدارية code: prs capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الدانمركية code: da capabilities: OCR V2T T2T Voice Conv  speech code: da-DK  - Downloaded //OfflineLanguagePacks/da
+09-20-2022 22:32:46.689: Found: الروسية code: ru capabilities: OCR V2T T2T Voice Conv  speech code: ru-RU  - Downloaded //OfflineLanguagePacks/ru
+09-20-2022 22:32:46.689: Found: الرومانية code: ro capabilities: V2T T2T Voice Conv  speech code: ro-RO  - Downloaded //OfflineLanguagePacks/ro
+09-20-2022 22:32:46.689: Found: الزولو code: zu capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الساموائية code: sm capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: السلوفاكية code: sk capabilities: V2T T2T Voice Conv  speech code: sk-SK  - Downloaded //OfflineLanguagePacks/sk
+09-20-2022 22:32:46.689: Found: السلوفانية code: sl capabilities: V2T T2T Voice Conv  speech code: sl-SI  - Downloaded //OfflineLanguagePacks/sl
+09-20-2022 22:32:46.689: Found: السواحلية code: sw capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: السويدية code: sv capabilities: OCR V2T T2T Voice Conv  speech code: sv-SE  - Downloaded //OfflineLanguagePacks/sv
+09-20-2022 22:32:46.689: Found: الصربية (السيريلية) code: sr-Cyrl capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الصربية (اللاتينية) code: sr-Latn capabilities: T2T  speech code: (null)  - Downloaded //OfflineLanguagePacks/sr-Latn
+09-20-2022 22:32:46.689: Found: الصوربية العليا code: hsb capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الصومالية code: so capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.689: Found: الصينية (التقليدية) code: zh-Hant capabilities: OCR V2T T2T Voice Conv  speech code: zh-TW  - Downloaded //OfflineLanguagePacks/zh-Hant
+09-20-2022 22:32:46.689: Found: الصينية (المبسطة) code: zh-Hans capabilities: OCR V2T T2T Voice Conv  speech code: zh-CN  - Downloaded //OfflineLanguagePacks/zh-Hans
+09-20-2022 22:32:46.689: Found: العبرية code: he capabilities: T2T Voice  speech code: (null)  - Downloaded //OfflineLanguagePacks/he
+09-20-2022 22:32:46.690: Found: العربية code: ar capabilities: V2T T2T Voice Conv  speech code: ar-EG  - Downloaded //OfflineLanguagePacks/ar
+09-20-2022 22:32:46.690: Found: الغوجاراتية code: gu capabilities: V2T T2T Voice  speech code: gu-IN  
+09-20-2022 22:32:46.690: Found: الفارسية code: fa capabilities: T2T Voice  speech code: (null)  - Downloaded //OfflineLanguagePacks/fa
+09-20-2022 22:32:46.690: Found: الفاروية code: fo capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الفرنسية code: fr capabilities: OCR V2T T2T Voice Conv  speech code: fr-FR  - Downloaded //OfflineLanguagePacks/fr
+09-20-2022 22:32:46.690: Found: الفرنسية(كندا) code: fr-CA capabilities: V2T T2T Voice Conv  speech code: fr-CA  
+09-20-2022 22:32:46.690: Found: الفلبينية code: fil capabilities: V2T T2T Voice  speech code: fil-PH  - Downloaded //OfflineLanguagePacks/fil
+09-20-2022 22:32:46.690: Found: الفنلندية code: fi capabilities: OCR V2T T2T Voice Conv  speech code: fi-FI  - Downloaded //OfflineLanguagePacks/fi
+09-20-2022 22:32:46.690: Found: الفيتنامية code: vi capabilities: V2T T2T Voice Conv  speech code: vi-VN  - Downloaded //OfflineLanguagePacks/vi
+09-20-2022 22:32:46.690: Found: الفيجية code: fj capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: القيرغيزية code: ky capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الكازاخستانية code: kk capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الكانادا code: kn capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الكتالانية code: ca capabilities: V2T T2T Voice Conv  speech code: ca-ES  - Downloaded //OfflineLanguagePacks/ca
+09-20-2022 22:32:46.690: Found: الكردية (الوسطى) code: ku capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الكردية (شمال) code: kmr capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الكرواتية code: hr capabilities: V2T T2T Voice Conv  speech code: hr-HR  - Downloaded //OfflineLanguagePacks/hr
+09-20-2022 22:32:46.690: Found: الكريولية الهايتية code: ht capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الكلينجون (pIqaD) code: tlh-Piqd capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الكلينجون (اللاتينية) code: tlh-Latn capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الكورية code: ko capabilities: OCR V2T T2T Voice Conv  speech code: ko-KR  - Downloaded //OfflineLanguagePacks/ko
+09-20-2022 22:32:46.690: Found: الكَنْتُونية (التقليدية) code: yue capabilities: OCR V2T T2T Voice Conv  speech code: zh-HK  
+09-20-2022 22:32:46.690: Found: اللاتفية code: lv capabilities: V2T T2T Voice  speech code: lv-LV  - Downloaded //OfflineLanguagePacks/lv
+09-20-2022 22:32:46.690: Found: اللاوية code: lo capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الليتوانية code: lt capabilities: V2T T2T Voice  speech code: lt-LT  - Downloaded //OfflineLanguagePacks/lt
+09-20-2022 22:32:46.690: Found: الماراثية code: mr capabilities: V2T T2T Voice  speech code: mr-IN  
+09-20-2022 22:32:46.690: Found: المالايالامية code: ml capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.690: Found: المالديفية code: dv capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: المالطية code: mt capabilities: V2T T2T Voice Conv  speech code: mt-MT  
+09-20-2022 22:32:46.690: Found: الماليزية code: ms capabilities: V2T T2T Voice Conv  speech code: ms-MY  - Downloaded //OfflineLanguagePacks/ms
+09-20-2022 22:32:46.690: Found: الماورية code: mi capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: المايا اليوكاتينية code: yua capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: المقدونية code: mk capabilities: T2T Voice  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الملغاشي code: mg capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: النرويجية بوكمال code: nb capabilities: OCR V2T T2T Voice Conv  speech code: nb-NO  - Downloaded //OfflineLanguagePacks/nb
+09-20-2022 22:32:46.690: Found: النيبالية code: ne capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الهمونجية code: mww capabilities: T2T  speech code: (null)  
+09-20-2022 22:32:46.690: Found: الهندية code: hi capabilities: V2T T2T Voice Conv  speech code: hi-IN  - Downloaded //OfflineLanguagePacks/hi
+09-20-2022 22:32:46.690: Found: الهنغارية code: hu capabilities: OCR V2T T2T Voice Conv  speech code: hu-HU  - Downloaded //OfflineLanguagePacks/hu
+09-20-2022 22:32:46.690: Found: الهولندية code: nl capabilities: OCR V2T T2T Voice Conv  speech code: nl-NL  - Downloaded //OfflineLanguagePacks/nl
+09-20-2022 22:32:46.690: Found: الويلزية code: cy capabilities: T2T Voice  speech code: (null)  - Downloaded //OfflineLanguagePacks/cy
+09-20-2022 22:32:46.690: Found: اليابانية code: ja capabilities: OCR V2T T2T Voice Conv  speech code: ja-JP  - Downloaded //OfflineLanguagePacks/ja
+09-20-2022 22:32:46.690: Found: اليونانية code: el capabilities: OCR V2T T2T Voice Conv  speech code: el-GR  - Downloaded //OfflineLanguagePacks/el
+09-20-2022 22:32:50.134: Event: PhrasebookEnter
+09-20-2022 22:32:50.134: Parameters: connection : wifi
+09-20-2022 22:33:06.662: Event: TextSwapLanguage
+09-20-2022 22:33:06.662: Parameters: sourceLanguage : ar
+destinationLanguage : en
+translatorMode : BITranslationInputMode
+connection : wifi
+09-20-2022 22:33:08.528: Event: TextSwapLanguage
+09-20-2022 22:33:08.528: Parameters: translatorMode : BITranslationInputMode
+connection : wifi
+destinationLanguage : ar
+sourceLanguage : en
+09-20-2022 22:33:13.127: enter background
+09-20-2022 22:33:13.128: Event: AppEnteredBackground
+09-20-2022 22:33:13.128: Parameters: connection : wifi
+09-20-2022 22:34:15.246: readTextFileFromExtensionAndRemove
+09-20-2022 22:34:15.247: Event: AppEnteredForeground
+09-20-2022 22:34:15.247: Parameters: connection : wifi
+09-20-2022 22:34:16.296: logWatchStatus
+09-20-2022 22:34:17.624: Event: HomePage
+09-20-2022 22:34:17.624: Parameters: connection : wifi
+09-20-2022 22:34:17.630: Event: PhrasebookLeave
+09-20-2022 22:34:17.631: Parameters: numberOfCategoriesSelected : 0
+numberOfPhraseExpanded : 0
+connection : wifi
+09-20-2022 22:34:23.339: Event: RecentEnter
+09-20-2022 22:34:23.340: Parameters: connection : wifi
+count : 37
+09-20-2022 22:34:23.356: Event: HistoryEnter
+09-20-2022 22:34:23.356: Parameters: connection : wifi
+09-20-2022 22:34:23.376: 
+ API Request Parameters: From: Arab, To: latn Method: transliterate, Language: ar, Customize: false clientTraceId: 5838FA6A-DAF9-4CE4-9E95-1EA1D922D5E5
+09-20-2022 22:34:24.826: EVENT: TextViewTransliteration: uuid: 9DB78F52-D354-4CBB-94CE-C1C835C9DE6E
+09-20-2022 22:34:24.829: Event: TransliterationApiSuccess
+09-20-2022 22:34:24.829: Parameters: toLang : latn
+arrayCount : 0
+Lang : ar
+charCount : 426
+connection : wifi
+errorCode : 0
+elapsedMs : 1449.235709
+fromLang : Arab
+errorMsg : 
+09-20-2022 22:34:26.023: 
+ API Request Parameters: From: Arab, To: latn Method: transliterate, Language: ar, Customize: false clientTraceId: B2D011A1-2BD9-4BB0-8D9A-57B5FA701649
+09-20-2022 22:34:27.588: EVENT: TextViewTransliteration: uuid: 69731B40-E792-44A9-9B67-ED80D7938DA4
+09-20-2022 22:34:27.590: Event: TransliterationApiSuccess
+09-20-2022 22:34:27.590: Parameters: arrayCount : 0
+Lang : ar
+errorCode : 0
+connection : wifi
+errorMsg : 
+charCount : 391
+elapsedMs : 1565.08375
+fromLang : Arab
+toLang : latn
+09-20-2022 22:34:39.595: Event: HistoryLeave
+09-20-2022 22:34:39.595: Parameters: connection : wifi
+09-20-2022 22:34:40.146: Event: HomePage
+09-20-2022 22:34:40.146: Parameters: connection : wifi
+09-20-2022 22:34:43.491: Event: SettingsEnter
+09-20-2022 22:34:43.491: Parameters: connection : wifi
+09-20-2022 22:34:52.718: Event: BISpeechConsentSettingsEntered
+09-20-2022 22:34:52.719: Parameters: connection : wifi
+09-20-2022 22:35:09.486: Event: BISpeechConsentFlowReadPrivacyStatement
+09-20-2022 22:35:09.486: Parameters: connection : wifi
+09-20-2022 22:35:09.528: enter background
+09-20-2022 22:35:10.316: Event: AppEnteredBackground
+09-20-2022 22:35:10.316: Parameters: connection : wifi
+09-20-2022 22:35:39.009: readTextFileFromExtensionAndRemove
+09-20-2022 22:35:39.010: Event: AppEnteredForeground
+09-20-2022 22:35:39.010: Parameters: connection : wifi
+09-20-2022 22:35:40.052: logWatchStatus
+09-20-2022 22:35:49.768: Event: SettingsAction
+09-20-2022 22:35:49.769: Parameters: name : feedback
+connection : wifi
+09-20-2022 22:35:49.805: enter background
+09-20-2022 22:35:50.594: Event: AppEnteredBackground
+09-20-2022 22:35:50.594: Parameters: connection : wifi
+09-20-2022 22:35:59.248: readTextFileFromExtensionAndRemove
+09-20-2022 22:35:59.249: Event: AppEnteredForeground
+09-20-2022 22:35:59.249: Parameters: connection : wifi
+09-20-2022 22:36:00.286: logWatchStatus
+09-20-2022 22:37:19.719: Event: SettingsAction
+09-20-2022 22:37:19.719: Parameters: connection : wifi
+name : sendLog
